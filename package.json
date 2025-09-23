@@ -1,0 +1,39 @@
+{
+  "name": "document-analyzer-ai",
+  "version": "1.0.0",
+  "description": "AI-powered CLI tool for analyzing structured documents (clinical trials, research papers, medical studies) using OpenAI's ChatGPT API",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsx src/index.ts",
+    "analyze": "npm run build && npm start",
+    "test-setup": "node test-setup.js",
+    "list-documents": "ls -la documents/*.pdf 2>/dev/null || echo 'No PDF files found in documents/ folder'",
+    "show-summaries": "node extract-summaries.js",
+    "sessions-info": "echo 'Sessions stored in:' && pwd && echo '/sessions/sessions.json' && ls -la sessions/",
+    "show-question-history": "node show-question-history.js",
+    "show-config": "node show-config.js",
+    "analyze-metadata": "node analyze-question-metadata.js",
+    "auto-ask-clinical": "node auto-ask-clinical-questions.js"
+  },
+  "keywords": ["cli", "openai", "chatgpt", "document-analysis", "clinical-trials", "research-analysis", "ai-assistant"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@inquirer/prompts": "^3.3.0",
+    "chalk": "^5.3.0",
+    "dotenv": "^16.3.1",
+    "openai": "^4.24.1",
+    "ora": "^7.0.1",
+    "pdf-parse": "^1.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.5",
+    "@types/pdf-parse": "^1.1.4",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  }
+}
+

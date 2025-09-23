@@ -1,0 +1,56 @@
+{
+  "studyName": "Clinical Trial Study",
+  "reportType": "Clinical Trial Report",
+  "questions": [
+    {
+      "id": "clinical-q1",
+      "category": "Primary Efficacy",
+      "question": "What was the primary efficacy endpoint result and its statistical significance, including confidence intervals and p-values?"
+    },
+    {
+      "id": "clinical-q2",
+      "category": "Safety Profile",
+      "question": "What were the key safety findings, including serious adverse events, common side effects, and any safety signals identified during the study?"
+    },
+    {
+      "id": "clinical-q3",
+      "category": "Study Design",
+      "question": "What was the study design (randomized, controlled, blinded), sample size, patient population characteristics, and primary inclusion/exclusion criteria?"
+    },
+    {
+      "id": "clinical-q4",
+      "category": "Secondary Endpoints",
+      "question": "What were the secondary endpoint results and how did they support or complement the primary efficacy findings?"
+    },
+    {
+      "id": "clinical-q5",
+      "category": "Clinical Impact",
+      "question": "What is the clinical significance of the results and how do they compare to existing standard of care or historical controls?"
+    },
+    {
+      "id": "clinical-q6",
+      "category": "Patient Population",
+      "question": "What were the baseline patient characteristics, demographics, and how representative was the study population of the target patient group?"
+    },
+    {
+      "id": "clinical-q7",
+      "category": "Research Design",
+      "question": "What statistical methods were used for analysis, and were the sample size calculations and power analysis adequate for the study objectives?"
+    },
+    {
+      "id": "clinical-q8",
+      "category": "Regulatory Considerations",
+      "question": "What regulatory pathways or approval considerations are mentioned, and how do the results support potential regulatory submissions?"
+    },
+    {
+      "id": "clinical-q9",
+      "category": "Subgroup Analysis",
+      "question": "Were there any important subgroup analyses performed, and did any patient subgroups show differential efficacy or safety profiles?"
+    },
+    {
+      "id": "clinical-q10",
+      "category": "Study Limitations",
+      "question": "What study limitations, potential biases, or areas for future research were identified by the investigators?"
+    }
+  ]
+}

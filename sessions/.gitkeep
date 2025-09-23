@@ -1,0 +1,2 @@
+# This file ensures the sessions directory is tracked in git
+# while excluding the actual session data files for privacy

@@ -1,0 +1,530 @@
+[
+  {
+    "questionId": "clinical-q1",
+    "question": "What was the primary efficacy endpoint result and its statistical significance, including confidence intervals and p-values?",
+    "response": "Is there anything else you'd like to know about the clinical trial document?",
+    "askedAt": "2025-09-23T13:06:53.031Z",
+    "sessionId": "thread_c1kDMIsM0WGxLFqNY1aodiVz",
+    "assistantId": "asst_3mgyxaAOM7EqhZJKZvH7pX3t",
+    "threadId": "thread_c1kDMIsM0WGxLFqNY1aodiVz",
+    "runId": "run_ruJJqdqHeG3uEO60MqRZT567",
+    "model": "gpt-4o",
+    "usage": {
+      "prompt_tokens": 4601,
+      "completion_tokens": 16,
+      "total_tokens": 4617,
+      "prompt_token_details": {
+        "cached_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "citations": [],
+    "metadata": {
+      "confidence": "high",
+      "processing_time_ms": 2000,
+      "sources_referenced": 0
+    }
+  },
+  {
+    "questionId": "clinical-q2",
+    "question": "What were the key safety findings, including serious adverse events, common side effects, and any safety signals identified during the study?",
+    "response": "Would you like to explore other aspects of the clinical trial document, such as the study design or specific clinical findings?",
+    "askedAt": "2025-09-23T13:07:08.906Z",
+    "sessionId": "thread_c1kDMIsM0WGxLFqNY1aodiVz",
+    "assistantId": "asst_3mgyxaAOM7EqhZJKZvH7pX3t",
+    "threadId": "thread_c1kDMIsM0WGxLFqNY1aodiVz",
+    "runId": "run_4EKuf6GfOra4EjOIkh6KAezJ",
+    "model": "gpt-4o",
+    "usage": {
+      "prompt_tokens": 4625,
+      "completion_tokens": 25,
+      "total_tokens": 4650,
+      "prompt_token_details": {
+        "cached_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "citations": [],
+    "metadata": {
+      "confidence": "high",
+      "processing_time_ms": 2000,
+      "sources_referenced": 0
+    }
+  },
+  {
+    "questionId": "clinical-q3",
+    "question": "What was the study design (randomized, controlled, blinded), sample size, patient population characteristics, and primary inclusion/exclusion criteria?",
+    "response": "Do you need more information on any other aspect of the clinical trial document?",
+    "askedAt": "2025-09-23T13:07:24.315Z",
+    "sessionId": "thread_c1kDMIsM0WGxLFqNY1aodiVz",
+    "assistantId": "asst_3mgyxaAOM7EqhZJKZvH7pX3t",
+    "threadId": "thread_c1kDMIsM0WGxLFqNY1aodiVz",
+    "runId": "run_K9QkqSssyzCUEjy5d5ZCXgmn",
+    "model": "gpt-4o",
+    "usage": {
+      "prompt_tokens": 4654,
+      "completion_tokens": 17,
+      "total_tokens": 4671,
+      "prompt_token_details": {
+        "cached_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "citations": [],
+    "metadata": {
+      "confidence": "high",
+      "processing_time_ms": 2000,
+      "sources_referenced": 0
+    }
+  },
+  {
+    "questionId": "clinical-q4",
+    "question": "What were the secondary endpoint results and how did they support or complement the primary efficacy findings?",
+    "response": "Is there another aspect of the clinical trial document you would like to inquire about, such as study design or clinical efficacy?",
+    "askedAt": "2025-09-23T13:07:41.140Z",
+    "sessionId": "thread_c1kDMIsM0WGxLFqNY1aodiVz",
+    "assistantId": "asst_3mgyxaAOM7EqhZJKZvH7pX3t",
+    "threadId": "thread_c1kDMIsM0WGxLFqNY1aodiVz",
+    "runId": "run_WpB5J3qTcS3i9BKJglsE8GzQ",
+    "model": "gpt-4o",
+    "usage": {
+      "prompt_tokens": 4664,
+      "completion_tokens": 26,
+      "total_tokens": 4690,
+      "prompt_token_details": {
+        "cached_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "citations": [],
+    "metadata": {
+      "confidence": "high",
+      "processing_time_ms": 2000,
+      "sources_referenced": 0
+    }
+  },
+  {
+    "questionId": "clinical-q1",
+    "question": "What was the primary efficacy endpoint result and its statistical significance, including confidence intervals and p-values?",
+    "response": "The document doesn't specify study design, results, or clinical findings in available sections related to leukemia types and their classifications【21:0†source】.",
+    "askedAt": "2025-09-23T13:07:51.644Z",
+    "sessionId": "thread_c1kDMIsM0WGxLFqNY1aodiVz",
+    "assistantId": "asst_3mgyxaAOM7EqhZJKZvH7pX3t",
+    "threadId": "thread_c1kDMIsM0WGxLFqNY1aodiVz",
+    "runId": "run_GJpk5DDD9RP1dUrKMc1eqfVI",
+    "model": "gpt-4o",
+    "usage": {
+      "prompt_tokens": 9679,
+      "completion_tokens": 57,
+      "total_tokens": 9736,
+      "prompt_token_details": {
+        "cached_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "citations": [
+      {
+        "type": "file_citation",
+        "text": "【21:0†source】",
+        "start_index": 146,
+        "end_index": 159,
+        "file_citation": {
+          "file_id": "file-LvK9ppFvHg4j8zxaCYdNFJ"
+        }
+      }
+    ],
+    "metadata": {
+      "confidence": "high",
+      "processing_time_ms": 2000,
+      "sources_referenced": 1
+    }
+  },
+  {
+    "questionId": "clinical-q5",
+    "question": "What is the clinical significance of the results and how do they compare to existing standard of care or historical controls?",
+    "response": "The document doesn't specify study design or clinical findings in the available sections, which are focused on leukemia types and terms【21:0†source】.",
+    "askedAt": "2025-09-23T13:07:58.578Z",
+    "sessionId": "thread_c1kDMIsM0WGxLFqNY1aodiVz",
+    "assistantId": "asst_3mgyxaAOM7EqhZJKZvH7pX3t",
+    "threadId": "thread_c1kDMIsM0WGxLFqNY1aodiVz",
+    "runId": "run_EPuLOhlLtEwrJFkhPY7zkcTZ",
+    "model": "gpt-4o",
+    "usage": {
+      "prompt_tokens": 4772,
+      "completion_tokens": 32,
+      "total_tokens": 4804,
+      "prompt_token_details": {
+        "cached_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "citations": [
+      {
+        "type": "file_citation",
+        "text": "【21:0†source】",
+        "start_index": 135,
+        "end_index": 148,
+        "file_citation": {
+          "file_id": "file-LvK9ppFvHg4j8zxaCYdNFJ"
+        }
+      }
+    ],
+    "metadata": {
+      "confidence": "high",
+      "processing_time_ms": 2000,
+      "sources_referenced": 1
+    }
+  },
+  {
+    "questionId": "clinical-q2",
+    "question": "What were the key safety findings, including serious adverse events, common side effects, and any safety signals identified during the study?",
+    "response": "The document excerpts don't provide study design or clinical findings. They outline leukemia types, without detailing results or designs【21:0†source】.",
+    "askedAt": "2025-09-23T13:08:07.797Z",
+    "sessionId": "thread_c1kDMIsM0WGxLFqNY1aodiVz",
+    "assistantId": "asst_3mgyxaAOM7EqhZJKZvH7pX3t",
+    "threadId": "thread_c1kDMIsM0WGxLFqNY1aodiVz",
+    "runId": "run_iB03cQjbos0ZzsaOn45SvaG2",
+    "model": "gpt-4o",
+    "usage": {
+      "prompt_tokens": 4809,
+      "completion_tokens": 31,
+      "total_tokens": 4840,
+      "prompt_token_details": {
+        "cached_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "citations": [
+      {
+        "type": "file_citation",
+        "text": "【21:0†source】",
+        "start_index": 136,
+        "end_index": 149,
+        "file_citation": {
+          "file_id": "file-LvK9ppFvHg4j8zxaCYdNFJ"
+        }
+      }
+    ],
+    "metadata": {
+      "confidence": "high",
+      "processing_time_ms": 2000,
+      "sources_referenced": 1
+    }
+  },
+  {
+    "questionId": "clinical-q6",
+    "question": "What were the baseline patient characteristics, demographics, and how representative was the study population of the target patient group?",
+    "response": "The document excerpts don't include study design or outcomes, focusing instead on leukemia classifications【21:0†source】.",
+    "askedAt": "2025-09-23T13:08:13.190Z",
+    "sessionId": "thread_c1kDMIsM0WGxLFqNY1aodiVz",
+    "assistantId": "asst_3mgyxaAOM7EqhZJKZvH7pX3t",
+    "threadId": "thread_c1kDMIsM0WGxLFqNY1aodiVz",
+    "runId": "run_f5DREDysu5vh1f6ARY0mbQ4f",
+    "model": "gpt-4o",
+    "usage": {
+      "prompt_tokens": 4839,
+      "completion_tokens": 25,
+      "total_tokens": 4864,
+      "prompt_token_details": {
+        "cached_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "citations": [
+      {
+        "type": "file_citation",
+        "text": "【21:0†source】",
+        "start_index": 106,
+        "end_index": 119,
+        "file_citation": {
+          "file_id": "file-LvK9ppFvHg4j8zxaCYdNFJ"
+        }
+      }
+    ],
+    "metadata": {
+      "confidence": "high",
+      "processing_time_ms": 2000,
+      "sources_referenced": 1
+    }
+  },
+  {
+    "questionId": "clinical-q3",
+    "question": "What was the study design (randomized, controlled, blinded), sample size, patient population characteristics, and primary inclusion/exclusion criteria?",
+    "response": "The study design, results, or clinical findings are not specified in the document sections provided, focusing instead on leukemia classifications【27:0†source】.",
+    "askedAt": "2025-09-23T13:08:26.229Z",
+    "sessionId": "thread_c1kDMIsM0WGxLFqNY1aodiVz",
+    "assistantId": "asst_3mgyxaAOM7EqhZJKZvH7pX3t",
+    "threadId": "thread_c1kDMIsM0WGxLFqNY1aodiVz",
+    "runId": "run_5XycPCfV2qm4wKe6sNWzekaQ",
+    "model": "gpt-4o",
+    "usage": {
+      "prompt_tokens": 10035,
+      "completion_tokens": 58,
+      "total_tokens": 10093,
+      "prompt_token_details": {
+        "cached_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "citations": [
+      {
+        "type": "file_citation",
+        "text": "【27:0†source】",
+        "start_index": 145,
+        "end_index": 158,
+        "file_citation": {
+          "file_id": "file-LvK9ppFvHg4j8zxaCYdNFJ"
+        }
+      }
+    ],
+    "metadata": {
+      "confidence": "high",
+      "processing_time_ms": 2000,
+      "sources_referenced": 1
+    }
+  },
+  {
+    "questionId": "clinical-q8",
+    "question": "What regulatory pathways or approval considerations are mentioned, and how do the results support potential regulatory submissions?",
+    "response": "The document doesn't include specific details on study design, results, or clinical findings, concentrating on leukemia types【27:0†source】.",
+    "askedAt": "2025-09-23T13:08:43.716Z",
+    "sessionId": "thread_c1kDMIsM0WGxLFqNY1aodiVz",
+    "assistantId": "asst_3mgyxaAOM7EqhZJKZvH7pX3t",
+    "threadId": "thread_c1kDMIsM0WGxLFqNY1aodiVz",
+    "runId": "run_pVgywFB9QaHar0dgYgvlY4Zc",
+    "model": "gpt-4o",
+    "usage": {
+      "prompt_tokens": 4940,
+      "completion_tokens": 30,
+      "total_tokens": 4970,
+      "prompt_token_details": {
+        "cached_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "citations": [
+      {
+        "type": "file_citation",
+        "text": "【27:0†source】",
+        "start_index": 125,
+        "end_index": 138,
+        "file_citation": {
+          "file_id": "file-LvK9ppFvHg4j8zxaCYdNFJ"
+        }
+      }
+    ],
+    "metadata": {
+      "confidence": "high",
+      "processing_time_ms": 2000,
+      "sources_referenced": 1
+    }
+  },
+  {
+    "questionId": "clinical-q5",
+    "question": "What is the clinical significance of the results and how do they compare to existing standard of care or historical controls?",
+    "response": "The current document excerpts don't provide details on the study design, results, or clinical findings, mainly focusing on leukemia classifications【27:0†source】.",
+    "askedAt": "2025-09-23T13:08:54.493Z",
+    "sessionId": "thread_c1kDMIsM0WGxLFqNY1aodiVz",
+    "assistantId": "asst_3mgyxaAOM7EqhZJKZvH7pX3t",
+    "threadId": "thread_c1kDMIsM0WGxLFqNY1aodiVz",
+    "runId": "run_8LTQHmVfV24zPftJODpMQ8Op",
+    "model": "gpt-4o",
+    "usage": {
+      "prompt_tokens": 4975,
+      "completion_tokens": 33,
+      "total_tokens": 5008,
+      "prompt_token_details": {
+        "cached_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "citations": [
+      {
+        "type": "file_citation",
+        "text": "【27:0†source】",
+        "start_index": 147,
+        "end_index": 160,
+        "file_citation": {
+          "file_id": "file-LvK9ppFvHg4j8zxaCYdNFJ"
+        }
+      }
+    ],
+    "metadata": {
+      "confidence": "high",
+      "processing_time_ms": 2000,
+      "sources_referenced": 1
+    }
+  },
+  {
+    "questionId": "clinical-q9",
+    "question": "Were there any important subgroup analyses performed, and did any patient subgroups show differential efficacy or safety profiles?",
+    "response": "The document doesn't specify study design, results, or clinical findings, focusing instead on various leukemia types【27:0†source】.",
+    "askedAt": "2025-09-23T13:09:07.516Z",
+    "sessionId": "thread_c1kDMIsM0WGxLFqNY1aodiVz",
+    "assistantId": "asst_3mgyxaAOM7EqhZJKZvH7pX3t",
+    "threadId": "thread_c1kDMIsM0WGxLFqNY1aodiVz",
+    "runId": "run_cNI0e9PODuLSfOSR2icTBAzW",
+    "model": "gpt-4o",
+    "usage": {
+      "prompt_tokens": 5009,
+      "completion_tokens": 29,
+      "total_tokens": 5038,
+      "prompt_token_details": {
+        "cached_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "citations": [
+      {
+        "type": "file_citation",
+        "text": "【27:0†source】",
+        "start_index": 116,
+        "end_index": 129,
+        "file_citation": {
+          "file_id": "file-LvK9ppFvHg4j8zxaCYdNFJ"
+        }
+      }
+    ],
+    "metadata": {
+      "confidence": "high",
+      "processing_time_ms": 2000,
+      "sources_referenced": 1
+    }
+  },
+  {
+    "questionId": "clinical-q6",
+    "question": "What were the baseline patient characteristics, demographics, and how representative was the study population of the target patient group?",
+    "response": "Please let me know if there's anything more you would like to ask or any other details you need.",
+    "askedAt": "2025-09-23T13:09:10.922Z",
+    "sessionId": "thread_c1kDMIsM0WGxLFqNY1aodiVz",
+    "assistantId": "asst_3mgyxaAOM7EqhZJKZvH7pX3t",
+    "threadId": "thread_c1kDMIsM0WGxLFqNY1aodiVz",
+    "runId": "run_37WBDhKsvRvoQrO3EBRaSEeN",
+    "model": "gpt-4o",
+    "usage": {
+      "prompt_tokens": 5041,
+      "completion_tokens": 22,
+      "total_tokens": 5063,
+      "prompt_token_details": {
+        "cached_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "citations": [],
+    "metadata": {
+      "confidence": "high",
+      "processing_time_ms": 2000,
+      "sources_referenced": 0
+    }
+  },
+  {
+    "questionId": "clinical-q7",
+    "question": "What statistical methods were used for analysis, and were the sample size calculations and power analysis adequate for the study objectives?",
+    "response": "Feel free to ask any additional questions or provide more details if you need further assistance.",
+    "askedAt": "2025-09-23T13:09:26.908Z",
+    "sessionId": "thread_c1kDMIsM0WGxLFqNY1aodiVz",
+    "assistantId": "asst_3mgyxaAOM7EqhZJKZvH7pX3t",
+    "threadId": "thread_c1kDMIsM0WGxLFqNY1aodiVz",
+    "runId": "run_Q2A3Zg5lGJnzzcNAw03662q1",
+    "model": "gpt-4o",
+    "usage": {
+      "prompt_tokens": 5066,
+      "completion_tokens": 19,
+      "total_tokens": 5085,
+      "prompt_token_details": {
+        "cached_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "citations": [],
+    "metadata": {
+      "confidence": "high",
+      "processing_time_ms": 2000,
+      "sources_referenced": 0
+    }
+  },
+  {
+    "questionId": "clinical-q9",
+    "question": "Were there any important subgroup analyses performed, and did any patient subgroups show differential efficacy or safety profiles?",
+    "response": "Please let me know if there's any additional information or clarification you need.",
+    "askedAt": "2025-09-23T13:11:10.581Z",
+    "sessionId": "thread_c1kDMIsM0WGxLFqNY1aodiVz",
+    "assistantId": "asst_3mgyxaAOM7EqhZJKZvH7pX3t",
+    "threadId": "thread_c1kDMIsM0WGxLFqNY1aodiVz",
+    "runId": "run_cywXmzPX8Udk0vhcid07gqNz",
+    "model": "gpt-4o",
+    "usage": {
+      "prompt_tokens": 5106,
+      "completion_tokens": 16,
+      "total_tokens": 5122,
+      "prompt_token_details": {
+        "cached_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "citations": [],
+    "metadata": {
+      "confidence": "high",
+      "processing_time_ms": 2000,
+      "sources_referenced": 0
+    }
+  },
+  {
+    "questionId": "clinical-q10",
+    "question": "What study limitations, potential biases, or areas for future research were identified by the investigators?",
+    "response": "Is there another specific detail you would like to know about the clinical trial document?",
+    "askedAt": "2025-09-23T13:11:37.060Z",
+    "sessionId": "thread_c1kDMIsM0WGxLFqNY1aodiVz",
+    "assistantId": "asst_3mgyxaAOM7EqhZJKZvH7pX3t",
+    "threadId": "thread_c1kDMIsM0WGxLFqNY1aodiVz",
+    "runId": "run_WVQTVp1Bg2tic3xCvFjZJkAl",
+    "model": "gpt-4o",
+    "usage": {
+      "prompt_tokens": 5121,
+      "completion_tokens": 18,
+      "total_tokens": 5139,
+      "prompt_token_details": {
+        "cached_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0
+      }
+    },
+    "citations": [],
+    "metadata": {
+      "confidence": "high",
+      "processing_time_ms": 2000,
+      "sources_referenced": 0
+    }
+  }
+]

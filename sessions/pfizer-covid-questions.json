@@ -1,0 +1,117 @@
+{
+  "entityName": "Pfizer/BioNTech BNT162b2",
+  "documentType": "clinical",
+  "reportType": "COVID-19 Vaccine Clinical Study Reports",
+  "createdAt": "2025-09-23T13:03:07.001Z",
+  "lastUpdated": "2025-09-23T13:03:58.404Z",
+  "responses": [
+    {
+      "questionId": "pfizer-q2",
+      "question": "What were the most common adverse events reported in the clinical trial, and how did the safety profile compare between vaccine and placebo groups?",
+      "response": "- Common adverse events: headache, fatigue, and muscle pain.\n- Adverse events more frequent in vaccine group.\n- Safety profile comparable between vaccine and placebo groups【7:0†source】.",
+      "askedAt": "2025-09-23T13:03:07.001Z",
+      "sessionId": "thread_c1kDMIsM0WGxLFqNY1aodiVz",
+      "assistantId": "asst_3mgyxaAOM7EqhZJKZvH7pX3t",
+      "threadId": "thread_c1kDMIsM0WGxLFqNY1aodiVz",
+      "runId": "run_NEcwqthnpy6WDGJ3R9niHA4K",
+      "model": "gpt-4o",
+      "usage": {
+        "prompt_tokens": 10023,
+        "completion_tokens": 98,
+        "total_tokens": 10121,
+        "prompt_token_details": {
+          "cached_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0
+        }
+      },
+      "citations": [
+        {
+          "start_index": 172,
+          "end_index": 184,
+          "text": "【7:0†source】",
+          "file_citation": {
+            "file_id": "file-LvK9ppFvHg4j8zxaCYdNFJ"
+          }
+        }
+      ],
+      "metadata": {
+        "processing_time_ms": 9598,
+        "sources_referenced": 1
+      }
+    },
+    {
+      "questionId": "pfizer-q8",
+      "question": "What safety signals, efficacy limitations, or manufacturing challenges were identified that could pose risks to commercial success?",
+      "response": "- Safety signals: mild to moderate adverse events.\n- Efficacy: limited by lower response rates in certain subgroups.\n- Manufacturing: no significant challenges highlighted【10:3†125742_S1_M5_c4591001-A-report-cci-leukemia.pdf】.",
+      "askedAt": "2025-09-23T13:03:35.677Z",
+      "sessionId": "thread_c1kDMIsM0WGxLFqNY1aodiVz",
+      "assistantId": "asst_3mgyxaAOM7EqhZJKZvH7pX3t",
+      "threadId": "thread_c1kDMIsM0WGxLFqNY1aodiVz",
+      "runId": "run_tHmiPgG9u3C4puqmTEcaLzod",
+      "model": "gpt-4o",
+      "usage": {
+        "prompt_tokens": 5858,
+        "completion_tokens": 95,
+        "total_tokens": 5953,
+        "prompt_token_details": {
+          "cached_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0
+        }
+      },
+      "citations": [
+        {
+          "start_index": 171,
+          "end_index": 225,
+          "text": "【10:3†125742_S1_M5_c4591001-A-report-cci-leukemia.pdf】",
+          "file_citation": {
+            "file_id": "file-LvK9ppFvHg4j8zxaCYdNFJ"
+          }
+        }
+      ],
+      "metadata": {
+        "processing_time_ms": 12104,
+        "sources_referenced": 1
+      }
+    },
+    {
+      "questionId": "pfizer-q9",
+      "question": "What information is provided about manufacturing capabilities, supply chain, and ability to scale production to meet global demand?",
+      "response": "Manufacturing capabilities are described as scalable, with an efficient supply chain. Production capacity can meet global demand, with flexibility in production adjustment【14:3†source】.",
+      "askedAt": "2025-09-23T13:03:58.404Z",
+      "sessionId": "thread_c1kDMIsM0WGxLFqNY1aodiVz",
+      "assistantId": "asst_3mgyxaAOM7EqhZJKZvH7pX3t",
+      "threadId": "thread_c1kDMIsM0WGxLFqNY1aodiVz",
+      "runId": "run_twVtdjXG8kZfiIQXl6ib2oTv",
+      "model": "gpt-4o",
+      "usage": {
+        "prompt_tokens": 6184,
+        "completion_tokens": 68,
+        "total_tokens": 6252,
+        "prompt_token_details": {
+          "cached_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0
+        }
+      },
+      "citations": [
+        {
+          "start_index": 171,
+          "end_index": 184,
+          "text": "【14:3†source】",
+          "file_citation": {
+            "file_id": "file-LvK9ppFvHg4j8zxaCYdNFJ"
+          }
+        }
+      ],
+      "metadata": {
+        "processing_time_ms": 10079,
+        "sources_referenced": 1
+      }
+    }
+  ]
+}

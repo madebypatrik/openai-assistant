@@ -1,0 +1,53 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Testing
+coverage/
+.nyc_output/
+
+# TypeScript
+*.tsbuildinfo
+
+# Session data (contains OpenAI thread/assistant IDs and summaries)
+# EXCLUDE if you want but I keep the files for DEMO
+# sessions/sessions.json
+
+# Question history (contains AI responses)
+# EXCLUDE if you want but I keep the files for DEMO
+# sessions/*-questions.json
+
+# Keep the sessions folder structure
+!sessions/.gitkeep
+
+# Predefined questions are tracked in git
+# !prompts-questions/*.json
+

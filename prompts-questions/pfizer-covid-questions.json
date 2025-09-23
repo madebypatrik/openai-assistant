@@ -1,0 +1,57 @@
+{
+  "entityName": "Pfizer/BioNTech BNT162b2",
+  "documentType": "clinical",
+  "reportType": "COVID-19 Vaccine Clinical Study Reports",
+  "questions": [
+    {
+      "id": "pfizer-q1",
+      "category": "Primary Efficacy",
+      "question": "What was the primary efficacy endpoint result for the BNT162b2 COVID-19 vaccine, including the specific efficacy percentage and confidence interval?"
+    },
+    {
+      "id": "pfizer-q2",
+      "category": "Safety Profile",
+      "question": "What were the most common adverse events reported in the clinical trial, and how did the safety profile compare between vaccine and placebo groups?"
+    },
+    {
+      "id": "pfizer-q3",
+      "category": "Study Population",
+      "question": "What were the key demographic characteristics of the study population, including age distribution, comorbidities, and high-risk patient subgroups?"
+    },
+    {
+      "id": "pfizer-q4",
+      "category": "Statistical Significance",
+      "question": "What was the statistical significance of the primary endpoint results, including p-values and confidence intervals that supported regulatory approval?"
+    },
+    {
+      "id": "pfizer-q5",
+      "category": "Subgroup Analysis",
+      "question": "How did vaccine efficacy vary across different subgroups, particularly in elderly patients, patients with comorbidities, and different ethnic groups?"
+    },
+    {
+      "id": "pfizer-q6",
+      "category": "Market Impact",
+      "question": "What regulatory milestones and approval pathways were identified that would impact the commercial timeline and market opportunity?"
+    },
+    {
+      "id": "pfizer-q7",
+      "category": "Competitive Positioning",
+      "question": "How do the efficacy and safety results compare to other COVID-19 vaccines in development or approved, and what competitive advantages are evident?"
+    },
+    {
+      "id": "pfizer-q8",
+      "category": "Investment Risk",
+      "question": "What safety signals, efficacy limitations, or manufacturing challenges were identified that could pose risks to commercial success?"
+    },
+    {
+      "id": "pfizer-q9",
+      "category": "Manufacturing & Scale",
+      "question": "What information is provided about manufacturing capabilities, supply chain, and ability to scale production to meet global demand?"
+    },
+    {
+      "id": "pfizer-q10",
+      "category": "Future Development",
+      "question": "What next steps, additional studies, or variant adaptations are mentioned that could affect the long-term investment thesis and market position?"
+    }
+  ]
+}

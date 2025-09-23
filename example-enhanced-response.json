@@ -1,0 +1,35 @@
+{
+  "example_question_response": {
+    "questionId": "clinical-q1",
+    "question": "What was the primary efficacy endpoint result and its statistical significance?",
+    "response": "Primary efficacy: 95% vaccine efficacy (95% CI: 90.3%-97.6%, p<0.001). Demonstrated highly significant protection against COVID-19 in the study population.",
+    "askedAt": "2025-09-23T07:45:00.000Z",
+    "sessionId": "thread_XXR65U8bmQTQJ2sMbSgCAqqx",
+    "assistantId": "asst_6vdzy5HrBso84TxP3IRDWTzO",
+    "threadId": "thread_XXR65U8bmQTQJ2sMbSgCAqqx",
+    "runId": "run_abc123def456",
+    "model": "gpt-4o",
+    "usage": {
+      "prompt_tokens": 1250,
+      "completion_tokens": 45,
+      "total_tokens": 1295
+    },
+    "citations": [
+      {
+        "start_index": 18,
+        "end_index": 65,
+        "text": "95% vaccine efficacy (95% CI: 90.3%-97.6%, p<0.001)",
+        "file_citation": {
+          "file_id": "file-AjLceieKQ2YFNUXq1UjbPL",
+          "quote": "Vaccine efficacy of 95.0% (95% CI: 90.3, 97.6; P<0.001)"
+        }
+      }
+    ],
+    "metadata": {
+      "confidence": "high",
+      "processing_time_ms": 2340,
+      "sources_referenced": 3
+    }
+  },
+  "description": "This shows the enhanced metadata captured for each question response, including OpenAI API references, performance metrics, source citations, and token usage for cost tracking."
+}
