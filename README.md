@@ -1,4 +1,4 @@
-# 🔬 AI Document Analyzer
+# 🔬 Open AI Assistant program
 
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-blue.svg)](https://openai.com/)
